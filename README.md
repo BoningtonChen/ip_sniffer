@@ -6,7 +6,8 @@ A simple Rust IP Sniffer Tool.
 
 ## Get Started
 
-You can use `git clone https://github.com/BoningtonChen/ip_sniffer` to clone the repository on GitHub.
+You can use `git clone https://github.com/BoningtonChen/ip_sniffer` to clone the repository on GitHub, or
+use `git clone https://gitee.com/bonington/ip_sniffer` on Gitee.
 
 ## LICENSE
 
