@@ -74,7 +74,7 @@ fn scan(tx: Sender<u16>, start_point: u16, addr: IpAddr, num_threads: u16)
 
     loop
     {
-        match TcpStream::connect((addr, port))
+        match TcpStream::connect( (addr, port) )
         {
             Ok(_) =>
                 {
